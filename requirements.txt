@@ -1,7 +1,3 @@
 openai
-requests
 bs4
-time
-os
-urllib
 numpy
