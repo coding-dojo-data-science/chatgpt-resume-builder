@@ -1,3 +1,4 @@
 openai
 bs4
 numpy
+lxml
